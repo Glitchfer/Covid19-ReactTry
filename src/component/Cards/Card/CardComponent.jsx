@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { Grid, Card, CardContent, Typography } from "@material-ui/core";
 import CountUp from "react-countup";
 import cn from "classnames";
